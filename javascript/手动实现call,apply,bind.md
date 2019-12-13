@@ -4,9 +4,9 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-13 18:09:24
  * @LastEditors: jimmiezhou
- * @LastEditTime: 2019-12-13 21:57:31
+ * @LastEditTime: 2019-12-13 22:05:27
  -->
-# 模拟实现call
+# 模拟实现call 
 
 - 1.判断当前this是否为函数，防止 Function.prototype.myCall() 直接调用
 - 2.context 为可选参数，如果不传的话默认上下文为 window
