@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-13 18:09:24
  * @LastEditors: jimmiezhou
- * @LastEditTime: 2019-12-13 22:05:27
+ * @LastEditTime: 2019-12-13 22:07:53
  -->
 # 模拟实现call 
 
@@ -74,7 +74,7 @@ Function.prototype.myBind = function (context = window, ...args1) {
 获取函数中的参数：
 
 ```javascript
-// 获取argument对象 类数组对象 不能调用数组方法
+    // 获取argument对象 类数组对象 不能调用数组方法
     function test1() {
       console.log('获取argument对象 类数组对象 不能调用数组方法', arguments);
     }
