@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-13 17:58:43
  * @LastEditors: jimmiezhou
- * @LastEditTime: 2019-12-13 18:09:54
+ * @LastEditTime: 2019-12-13 18:25:58
  -->
 # algorithm-js
 > 写代码 = 数据结构 + 算法 + ...
@@ -20,7 +20,8 @@
 
 ## JavaScript专题
 
-- 手动实现call,apply,bind
+- [手动实现call,apply,bind](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/%E6%89%8B%E5%8A%A8%E5%AE%9E%E7%8E%B0call%2Capply%2Cbind.md) 
+- 
   
 ## 排序
 
