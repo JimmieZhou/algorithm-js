@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-13 18:09:24
  * @LastEditors: jimmiezhou
- * @LastEditTime: 2019-12-13 18:18:23
+ * @LastEditTime: 2019-12-13 21:49:35
  -->
 # 模拟实现call
 
@@ -23,6 +23,28 @@ Function.prototype.myCall = function (context = window, ...args) {
     context[fn] = this
     const result = context[fn](...args)
     delete context.fn
+    return result
+}
+```
+
+# 模拟实现apply
+
+apply实现类似于call，参数是数组
+
+```javascript
+Function.prototype.myApply = function (context = window, args) {
+    if (this === Function.prototype) {
+        return undefined
+    }
+    const fn = Symbol()
+    context[fn] = this
+    let result
+    if (Array.isArray(args)) {
+        result = context[fn](...args)
+    } else {
+        result = context[fn]()
+    }
+    delete context[fn]
     return result
 }
 ```
