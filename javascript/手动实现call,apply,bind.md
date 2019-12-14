@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-13 18:09:24
  * @LastEditors: jimmiezhou
- * @LastEditTime: 2019-12-13 22:07:53
+ * @LastEditTime: 2019-12-14 11:53:45
  -->
 # 模拟实现call 
 
@@ -102,5 +102,5 @@ Function.prototype.myBind = function (context = window, ...args1) {
     test1(1, 2, 3);
     test2(1, 2, 3);
     test3(1, 2, 3);
-    test4(1, 2, 3);
+    test4(1, 2, 3); 
 ```
