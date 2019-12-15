@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-13 17:58:43
  * @LastEditors: jimmiezhou
- * @LastEditTime: 2019-12-13 22:39:07
+ * @LastEditTime: 2019-12-15 20:34:17
  -->
 # algorithm-js
 > 写代码 = 数据结构 + 算法 + ...
@@ -20,8 +20,16 @@
 
 ## JavaScript专题
 
-- [手动实现call,apply,bind](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/%E6%89%8B%E5%8A%A8%E5%AE%9E%E7%8E%B0call%2Capply%2Cbind.md) 
-- [防抖](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/%E9%98%B2%E6%8A%96.md) 
+- [call,apply,bind](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/%E6%89%8B%E5%8A%A8%E5%AE%9E%E7%8E%B0call%2Capply%2Cbind.md) 
+- [防抖](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/%E9%98%B2%E6%8A%96.md)
+- [节流](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/%E8%8A%82%E6%B5%81.md) 
+- [new](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/new.md)
+- [instanceof](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/instanceof.md)
+- [继承](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/%E7%BB%A7%E6%89%BF.md)
+- [深浅拷贝](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/%E6%B7%B1%E6%B5%85%E6%8B%B7%E8%B4%9D.md)
+- [大数据插入页面不卡顿](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8F%92%E5%85%A5%E9%A1%B5%E9%9D%A2%E4%B8%8D%E5%8D%A1%E9%A1%BF.md)
+- [lazy-load](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/lazy-load.md)
+- [promise]()
   
 ## 排序
 
