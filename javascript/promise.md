@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-16 09:47:22
  * @LastEditors: jimmiezhou
- * @LastEditTime: 2019-12-16 14:47:32
+ * @LastEditTime: 2019-12-16 14:50:49
  -->
 # 基础版本
 
@@ -262,23 +262,23 @@ MyPromise.reject = function(reason) {
 ```javascript
 MyPromise.all = function (promises) {
     return new Promise((resolve, reject) => {
-    if (promises.length === 0) {
-        resolve([]);
-    } else {
-        let result = [];
-        let index = 0;
-        for (let i = 0; i < promises.length; i++) {
-            promises[i].then(data => {
-                result[i] = data;
-                if (++index === promises.length) {
-                resolve(result);
-                }
-            }, err => {
-                reject(err);
-                return;
-            });
+        if (promises.length === 0) {
+            resolve([]);
+        } else {
+            let result = [];
+            let index = 0;
+            for (let i = 0; i < promises.length; i++) {
+                promises[i].then(data => {
+                    result[i] = data;
+                    if (++index === promises.length) {
+                    resolve(result);
+                    }
+                }, err => {
+                    reject(err);
+                    return;
+                });
+            }
         }
-    }
     });
 }
 ```
