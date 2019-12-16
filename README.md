@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-13 17:58:43
  * @LastEditors: jimmiezhou
- * @LastEditTime: 2019-12-15 20:37:06
+ * @LastEditTime: 2019-12-16 14:41:43
  -->
 # algorithm-js
 > 写代码 = 数据结构 + 算法 + ...
@@ -29,7 +29,7 @@
 - [节流](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/%E8%8A%82%E6%B5%81.md) 
 - [大数据插入页面不卡顿](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8F%92%E5%85%A5%E9%A1%B5%E9%9D%A2%E4%B8%8D%E5%8D%A1%E9%A1%BF.md)
 - [lazy-load](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/lazy-load.md)
-- [promise]()
+- [promise](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/promise.md)
   
 ## 排序
 
