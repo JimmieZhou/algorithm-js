@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-16 09:47:22
  * @LastEditors: jimmiezhou
- * @LastEditTime: 2019-12-16 14:38:38
+ * @LastEditTime: 2019-12-16 14:47:32
  -->
 # 基础版本
 
@@ -236,7 +236,7 @@ MyPromise.prototype.finally = function(fn) {
 Promise.resolve用来生成一个直接处于FULFILLED状态的Promise。
 
 ```javascript
-MyPromise.reject = function(value) {
+MyPromise.resolve = function(value) {
   return new MyPromise((resolve, reject) => {
     resolve(value);
   });
