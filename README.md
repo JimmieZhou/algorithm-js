@@ -6,7 +6,7 @@
  * @LastEditors  : jimmiezhou
  * @LastEditTime : 2019-12-19 10:22:39
  -->
-🐣🐣🐣 # algorithm-js
+# 💎algorithm-js
 > 写代码 = 数据结构 + 算法 + ...
   
 > 这里有大量算法和数据结构的JavaScript实现 
