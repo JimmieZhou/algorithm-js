@@ -31,6 +31,8 @@
 - [lazy-load](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/lazy-load.md)
 - [promise](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/promise.md)
 - [jsonp实现](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/jsonp%E5%AE%9E%E7%8E%B0.md)
+- [sleep](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/sleep.md)
+- [数组去重，排序,扁平，最值]()
   
 ## 排序
 
