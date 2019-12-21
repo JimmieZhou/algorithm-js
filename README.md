@@ -32,7 +32,8 @@
 - [promise](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/promise.md)
 - [jsonp实现](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/jsonp%E5%AE%9E%E7%8E%B0.md)
 - [sleep](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/sleep.md)
-- [数组去重，排序,扁平，最值]()
+- [数组去重，排序,扁平，最值](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D%EF%BC%8C%E6%89%81%E5%B9%B3%EF%BC%8C%E6%9C%80%E5%80%BC.md)
+- [柯里化]()
   
 ## 排序
 
