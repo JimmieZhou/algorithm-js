@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-13 17:58:43
  * @LastEditors  : jimmiezhou
- * @LastEditTime : 2019-12-22 12:26:24
+ * @LastEditTime : 2019-12-23 10:35:19
  -->
 # 💎algorithm-js
 > 写代码 = 数据结构 + 算法 + ...
@@ -34,7 +34,7 @@
 - [sleep](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/sleep.md)
 - [数组去重，排序,扁平，最值](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D%EF%BC%8C%E6%89%81%E5%B9%B3%EF%BC%8C%E6%9C%80%E5%80%BC.md)
 - [柯里化](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/%E6%9F%AF%E9%87%8C%E5%8C%96.md)
-- [基于Promise的ajax封装]()
+- [基于Promise的ajax封装](https://github.com/JimmieZhou/algorithm-js/blob/master/javascript/%E5%9F%BA%E4%BA%8EPromise%E7%9A%84ajax%E5%B0%81%E8%A3%85.md)
   
 ## 排序
 
