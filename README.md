@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-13 17:58:43
  * @LastEditors  : jimmiezhou
- * @LastEditTime : 2019-12-23 10:50:09
+ * @LastEditTime : 2019-12-23 11:12:06
  -->
 # 💎algorithm-js
 > 写代码 = 数据结构 + 算法 + ...
@@ -38,9 +38,11 @@
 
 ## 复杂度
 
--[时间空间复杂度](https://github.com/JimmieZhou/algorithm-js/tree/master/%E5%A4%8D%E6%9D%82%E5%BA%A6)
+- [时间空间复杂度](https://github.com/JimmieZhou/algorithm-js/tree/master/%E5%A4%8D%E6%9D%82%E5%BA%A6)
 
 ## 排序
+
+- [冒泡排序](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%8E%92%E5%BA%8F/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.md)
 
 ## 二叉树
 
