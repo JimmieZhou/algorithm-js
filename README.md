@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-13 17:58:43
  * @LastEditors  : jimmiezhou
- * @LastEditTime : 2019-12-23 11:43:57
+ * @LastEditTime : 2019-12-23 13:34:15
  -->
 # 💎algorithm-js
 > 写代码 = 数据结构 + 算法 + ...
@@ -15,7 +15,7 @@
 
 练好数据结构和算法，非一日之功💪。欢迎Star✨
 
-- 🍭：较难
+- ✨：较难
 
 ## JavaScript专题
 
@@ -43,7 +43,7 @@
 
 - [冒泡排序](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%8E%92%E5%BA%8F/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F.md)
 - [选择排序](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%8E%92%E5%BA%8F/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F.md)
-- [插入排序]()
+- [插入排序](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%8E%92%E5%BA%8F/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.md)
 - [快速排序]()
 - [归并排序]()
 - [堆排序]()
