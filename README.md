@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-13 17:58:43
  * @LastEditors  : jimmiezhou
- * @LastEditTime : 2019-12-25 21:27:18
+ * @LastEditTime : 2019-12-30 16:33:05
  -->
 # 💎algorithm-js
 > 写代码 = 数据结构 + 算法 + ...
@@ -46,7 +46,7 @@
 - [插入排序](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%8E%92%E5%BA%8F/%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.md)
 - [快速排序](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%8E%92%E5%BA%8F/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F.md)🎈
 - [归并排序]()🎈
-- [堆排序]()🎈
+- [堆排序](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%8E%92%E5%BA%8F/%E5%A0%86%E6%8E%92%E5%BA%8F.md)🎈
 
 ## 二叉树
 
