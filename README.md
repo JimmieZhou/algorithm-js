@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-13 17:58:43
  * @LastEditors  : jimmiezhou
- * @LastEditTime : 2020-01-03 15:51:05
+ * @LastEditTime : 2020-01-03 16:09:09
  -->
 # 💎algorithm-js
 > 写代码 = 数据结构 + 算法 + ...
@@ -53,6 +53,8 @@
 - [二叉树概览](https://github.com/JimmieZhou/algorithm-js/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91-%E6%A6%82%E8%A7%88.md)
 - [二叉树基本操作](https://github.com/JimmieZhou/algorithm-js/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C.md)
 - [二叉树中序遍历](https://github.com/JimmieZhou/algorithm-js/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.md)
+- [二叉树前序遍历](https://github.com/JimmieZhou/algorithm-js/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.md)
+- [二叉树后序遍历](https://github.com/JimmieZhou/algorithm-js/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.md)
 
 ## 链表
 
