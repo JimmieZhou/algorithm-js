@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-13 17:58:43
  * @LastEditors  : jimmiezhou
- * @LastEditTime : 2020-01-03 16:09:09
+ * @LastEditTime : 2020-01-04 16:42:20
  -->
 # 💎algorithm-js
 > 写代码 = 数据结构 + 算法 + ...
@@ -55,6 +55,8 @@
 - [二叉树中序遍历](https://github.com/JimmieZhou/algorithm-js/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%BA%8F%E9%81%8D%E5%8E%86.md)
 - [二叉树前序遍历](https://github.com/JimmieZhou/algorithm-js/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.md)
 - [二叉树后序遍历](https://github.com/JimmieZhou/algorithm-js/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.md)
+- [二叉树最大深度](https://github.com/JimmieZhou/algorithm-js/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.md)
+- [二叉树最小深度](https://github.com/JimmieZhou/algorithm-js/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E6%9C%80%E5%B0%8F%E6%B7%B1%E5%BA%A6.md)
 
 ## 链表
 
