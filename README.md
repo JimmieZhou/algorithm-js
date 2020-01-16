@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-13 17:58:43
  * @LastEditors  : jimmiezhou
- * @LastEditTime : 2020-01-15 22:12:59
+ * @LastEditTime : 2020-01-16 22:46:42
  -->
 # 💎algorithm-js
 > 写代码 = 数据结构 + 算法 + ...
@@ -70,6 +70,7 @@
 - [替换空格](https://github.com/JimmieZhou/algorithm-js/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.md)
 - [字符流中第一个不重复的字符](https://github.com/JimmieZhou/algorithm-js/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%AD%97%E7%AC%A6%E6%B5%81%E4%B8%AD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%8D%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%97%E7%AC%A6.md)
 - [字符串的排列](https://github.com/JimmieZhou/algorithm-js/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.md)
+- [字符串翻转](https://github.com/JimmieZhou/algorithm-js/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%BF%BB%E8%BD%AC.md)
 ## 栈和队列
 
 ## 数组
