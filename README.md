@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-13 17:58:43
  * @LastEditors  : jimmiezhou
- * @LastEditTime : 2020-02-04 20:34:01
+ * @LastEditTime : 2020-02-04 20:41:05
  -->
 # 💎algorithm-js
 > 写代码 = 数据结构 + 算法 + ...
@@ -79,6 +79,8 @@
 - [栈的压入弹出序列](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%A0%88%E5%92%8C%E9%98%9F%E5%88%97/%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97.md)
 
 ## 数组
+
+-[调整数组顺序使奇数位于偶数前面](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%95%B0%E7%BB%84/%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2.md)
 
 ## 堆
 
