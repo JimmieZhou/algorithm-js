@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-13 17:58:43
  * @LastEditors  : jimmiezhou
- * @LastEditTime : 2020-02-09 14:34:45
+ * @LastEditTime : 2020-02-09 15:03:06
  -->
 # 💎algorithm-js
 > 写代码 = 数据结构 + 算法 + ...
@@ -84,6 +84,7 @@
 - [在排序数组中查找数字](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%95%B0%E7%BB%84/%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97.md)
 - [数组中出现次数超过数组长度一半的数字](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%95%B0%E7%BB%84/%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E6%95%B0%E7%BB%84%E9%95%BF%E5%BA%A6%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97.md)
 - [连续子数组的最大和](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%95%B0%E7%BB%84/%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.md)
+- [把数组排成最小的数](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%95%B0%E7%BB%84/%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0.md)
 
 ## 堆
 
