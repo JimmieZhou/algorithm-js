@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-13 17:58:43
  * @LastEditors  : jimmiezhou
- * @LastEditTime : 2020-02-10 22:11:20
+ * @LastEditTime : 2020-02-11 21:53:16
  -->
 # 💎algorithm-js
 > 写代码 = 数据结构 + 算法 + ...
@@ -87,6 +87,7 @@
 - [把数组排成最小的数](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%95%B0%E7%BB%84/%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F%E7%9A%84%E6%95%B0.md)
 - [第一个只出现一次的字符](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%95%B0%E7%BB%84/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6.md)
 - [扑克牌顺子](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%95%B0%E7%BB%84/%E6%89%91%E5%85%8B%E7%89%8C%E9%A1%BA%E5%AD%90.md)
+- [和为S的两个数字](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%95%B0%E7%BB%84/%E5%92%8C%E4%B8%BAS%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.md)
 
 ## 堆
 
