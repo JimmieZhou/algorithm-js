@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-13 17:58:43
  * @LastEditors  : jimmiezhou
- * @LastEditTime : 2020-02-12 15:03:07
+ * @LastEditTime : 2020-02-12 15:17:17
  -->
 # 💎algorithm-js
 > 写代码 = 数据结构 + 算法 + ...
@@ -89,6 +89,7 @@
 - [扑克牌顺子](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%95%B0%E7%BB%84/%E6%89%91%E5%85%8B%E7%89%8C%E9%A1%BA%E5%AD%90.md)
 - [和为S的两个数字](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%95%B0%E7%BB%84/%E5%92%8C%E4%B8%BAS%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.md)
 - [两数之和](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%95%B0%E7%BB%84/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+- [三数之和](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%95%B0%E7%BB%84/%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 
 ## 堆
 
