@@ -4,7 +4,7 @@
  * @Author: jimmiezhou
  * @Date: 2019-12-13 17:58:43
  * @LastEditors  : jimmiezhou
- * @LastEditTime : 2020-02-13 18:33:38
+ * @LastEditTime : 2020-02-14 15:12:31
  -->
 # 💎algorithm-js
 > 写代码 = 数据结构 + 算法 + ...
@@ -100,6 +100,7 @@
 ## 数学运算
 
 - [二进制中1的个数](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%95%B0%E5%AD%A6%E8%BF%90%E7%AE%97/%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD1%E7%9A%84%E4%B8%AA%E6%95%B0.md)
+- [数值的整数次方](https://github.com/JimmieZhou/algorithm-js/blob/master/%E6%95%B0%E5%AD%A6%E8%BF%90%E7%AE%97/%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9.md)
 
 ## 查找
 
