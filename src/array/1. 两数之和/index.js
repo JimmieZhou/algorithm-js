@@ -1,10 +1,11 @@
 var twoSum = function (nums, target) {
-    var map = {}; // key: 数组中的某个值 value: 下标
-    for (let index = 0; index < nums.length; index++) {
-        if (map[target - nums[index]] !== undefined) {
-            return [map[target - nums[index]], index]
+    var map = {}
+    for (let index = 0; index < array.length; index++) {
+        const element = array[index];
+        if(map[target-nums[i]] !== undefined){
+            return [map[target-nums[i]], i]
         } else {
-            map[nums[index]] = index
+            map[nums[i]] = i
         }
     }
 };
